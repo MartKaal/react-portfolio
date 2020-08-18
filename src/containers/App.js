@@ -1,13 +1,18 @@
-import React from 'react';
+import React, { Component } from 'react';
 import './App.css';
 
-function App() {
-    return (
-        <div className="App">
-            <h1>Test</h1>
-            <p>Nunito Sans</p>
-        </div>
-    );
+import Hero from '../components/Hero/Hero';
+
+class App extends Component {
+    render() {
+        return (
+            <div className="container">
+                <Hero />
+                {/* Project component */}
+                {/* Contact component */}
+            </div>
+        );
+    }
 }
 
 export default App;
