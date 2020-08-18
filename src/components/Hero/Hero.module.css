@@ -1,0 +1,21 @@
+.hero {
+    margin-top: 335px;
+}
+
+.hero h3 {
+    font-size: 2rem;
+    color: #f05d7b;
+}
+
+.hero h1 {
+    font-size: 3.75rem;
+    color: #071e48;
+    line-height: 3rem;
+}
+
+.hero p {
+    width: 100%;
+    max-width: 540px;
+    font-size: 0.875rem;
+    margin: 2rem 0;
+}
