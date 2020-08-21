@@ -1,8 +1,9 @@
 .hero {
-    margin-top: 335px;
+    grid-column-start: 3;
+    grid-column-end: 4;
 }
 
-.hero h3 {
+/* .hero h3 {
     font-size: 2rem;
     color: #f05d7b;
 }
@@ -18,4 +19,4 @@
     max-width: 540px;
     font-size: 0.875rem;
     margin: 2rem 0;
-}
+} */
