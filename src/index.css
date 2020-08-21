@@ -78,3 +78,12 @@ h3 {
     background-color: #f05d7b;
     color: #fff;
 }
+
+a,
+a:hover,
+a:visited {
+    text-decoration: none;
+    color: #071e48;
+	font-weight: 500;
+	transition: color 200ms ease-in-out;
+}
